@@ -1,5 +1,7 @@
 # modcheck
-checks minecraft mods against modrinth for renames and modifications
+Checks minecraft mods by comparing SHA1 hashes
 
+To use:
+> Clone the repository and run main.py
 
-run file and supply filepath to minecraft directory
+> Use the binary that is automatically compiled using github actions
